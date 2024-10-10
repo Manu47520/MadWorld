@@ -1,0 +1,13 @@
+Peste d'Athènes;37.9838;23.7275;430–426 av. J.-C.;75 000 à 100 000
+Peste antonine;41.9028;12.4964;165–180;5 millions
+Peste de Justinien;38.7071;35.2222;541–542;25 à 50 millions
+Peste noire;48.8566;2.3522;1347–1351;75 à 200 millions
+Épidémie de variole;19.4326;-99.1332;1520;5 à 8 millions
+Grande peste de Londres;51.5074;-0.1278;1665–1666;100 000
+Pandémie de choléra;20.5937;78.9629;1817–1824;1 million
+Grippe espagnole;40.7128;-74.0060;1918–1920;50 à 100 millions
+Grippe asiatique;39.9042;116.4074;1957–1958;1 à 2 millions
+Grippe de Hong Kong;22.3964;114.1095;1968–1969;1 à 4 millions
+VIH/SIDA;9.0820;8.6753;1981 – en cours;36 millions
+Épidémie d'Ebola;9.9261;-9.6966;2014–2016;11 325
+Pandémie de COVID-19;30.5928;114.3055;2019 – en cours;6,9 millions

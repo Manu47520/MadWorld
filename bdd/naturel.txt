@@ -1,0 +1,10 @@
+Éruption de Santorin;36.3932;25.4615;vers 1600 av. J.-C.;Inconnu;Éruption volcanique
+Séisme d'Antioche;36.2021;37.1343;13 décembre 115;260 000;Séisme
+Éruption du Vésuve;40.7467;14.4989;24 août 79;16 000;Éruption volcanique
+Séisme de Shaanxi;34.265;108.953;23 janvier 1556;830 000;Séisme
+Cyclone Bhola;22.3569;91.7832;13 novembre 1970;300 000 à 500 000;Cyclone tropical
+Séisme et tsunami de l'océan Indien;3.3166;95.8542;26 décembre 2004;230 000 à 280 000;Séisme sous-marin et tsunami
+Ouragan Katrina;29.9511;-90.0715;23-31 août 2005;1 836;Ouragan
+Séisme de T?hoku et tsunami;38.297;142.373;11 mars 2011;15 897;Séisme et tsunami
+Inondations au Pakistan;30.3753;69.3451;Juin-septembre 2022;1 700;Inondation
+Séisme en Turquie et en Syrie;37.0662;37.3833;6 février 2023;50 000;Séisme

@@ -1,0 +1,6 @@
+Agbogbloshie;5.5591;-0.2059;215 000 tonnes/an;Déchets électroniques
+Linfen;36.0881;111.518;Millions de tonnes;Pollution de l'air (charbon)
+Tchernobyl;51.389;30.0994;200 tonnes de déchets nucléaires;Déchets radioactifs
+Norilsk;69.3558;88.1893;2 millions de tonnes/an;Industrie du nickel et du cuivre
+Rivière Citarum;-6.839;107.491;280 000 tonnes/an;Déchets industriels et domestiques
+Kabwe;-14.444;28.4469;Plomb en quantité énorme;Extraction de plomb

@@ -1,0 +1,8 @@
+Site d’essais du Nevada (États-Unis);37.1167;116.0500;Utilisé pour plus de 1 000 essais nucléaires entre 1951 et 1992
+Polygone nucléaire de Semipalatinsk (Kazakhstan);50.4000;77.8000;Site de 456 essais nucléaires soviétiques
+Atoll de Bikini (Îles Marshall);11.5833;165.3833;Site de 23 essais nucléaires américains entre 1946 et 1958
+Atoll de Moruroa (Polynésie française);21.8333;138.8333;Utilisé par la France pour 167 essais nucléaires de 1966 à 1996
+Site d’essais de Lop Nor (Chine);40.7000;89.2000;Site de 45 essais nucléaires chinois
+Site d’essais de Pokhran (Inde);27.0950;71.7530;Site des essais nucléaires indiens, y compris le premier essai en 1974
+Site d’essais de Chagai (Pakistan);28.8000;64.6000;Site des essais nucléaires pakistanais en 1998
+Site d’essais de Punggye-ri (Corée du Nord);41.3000;129.1000;Utilisé pour plusieurs essais nucléaires nord-coréens depuis 2006

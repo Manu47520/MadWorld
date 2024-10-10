@@ -1,0 +1,6 @@
+Kaboul, Afghanistan;34.5286;69.1652;26 août 2021;183;État islamique (ISIS-K)
+Paris, France;48.8666;2.8333;13 novembre 2015;130;État islamique (ISIS)
+Christchurch, Nouvelle-Zélande;-43.5333;172.6333;15 mars 2019;51;Extrémiste de droite
+Nairobi, Kenya;-1.2833;36.8166;15 janvier 2019;21;Al-Shabaab
+Manchester, Royaume-Uni;53.4809;-2.2374;22 mai 2017;22;État islamique (ISIS)
+New York, États-Unis;40.7142;-74.0059;11 septembre 2001;2 977;Al-Qaïda

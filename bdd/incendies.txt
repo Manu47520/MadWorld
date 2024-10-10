@@ -1,0 +1,4 @@
+Incendie de Black Summer (Australie;-26.8533;133.2751;2019-2020;33 morts directs, environ 450 décès dus à l’inhalation de fumée;18,6 millions d’hectares
+Incendie de Dixie (États-Unis);39.4647;-101.3864;2021;12;389 837 hectares
+Incendie de Fort McMurray (Canada);55.8037;-100.5663;2016;24;589 552 hectares
+Incendie de l’Amazonie (Brésil);-14.2429;-53.1892;2020 (parmi d’autres années);Variable, mais des impacts significatifs sur la santé humaine;Variable chaque année, mais des millions d’hectares touchés régulièrement

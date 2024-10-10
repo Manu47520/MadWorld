@@ -1,0 +1,9 @@
+Explosion de l'usine de BASF à Oppau;49.5094;8.4099;21 septembre 1921;500;Explosion de nitrate d'ammonium
+Désastre de Texas City;29.3838;-94.9027;16 avril 1947;581;Explosion de nitrate d'ammonium
+Catastrophe de Bhopal;23.2599;77.4126;3 décembre 1984;25 000+;Fuite de gaz chimique
+Accident nucléaire de Tchernobyl;51.4058;30.0531;26 avril 1986;4 000 à 60 000;Explosion nucléaire
+Catastrophe de Seveso;45.6404;9.104;10 juillet 1976;Aucun décès direct;Fuite de dioxine
+Catastrophe de Fukushima;37.421;141.032;11 mars 2011;1 600;Accident nucléaire (séisme et tsunami)
+Explosion à Tianjin;39.1336;117.2056;12 août 2015;173;Explosion de produits chimiques
+Accident du barrage de Brumadinho;-20.1534;-44.2008;25 janvier 2019;270;Rupture de barrage minier
+ASF à Toulouse;43.6043;1.4437;21 septembre 2001;31;Explosion usine de production d'engrais azotés
