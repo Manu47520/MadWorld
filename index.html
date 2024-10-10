@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mad World</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+<body>
+<audio id="myAudio" src="music/rest-of-the-fallen-10378.mp3"></audio>
+<script>
+document.addEventListener("contextmenu", function(e){
+e.preventDefault();
+}, false);
+
+document.addEventListener('keydown', (e) => {
+    e = e || window.event;
+    if(e.keyCode == 116){
+        e.preventDefault();
+    }
+});
+</script>
+
+<div id="titre" class="slide-in"><img src="images/caution.png" width="46" height="39"/> MAD WORLD <img src="images/caution.png" width="46" height="39"/><br><div>
+<div id="texte"></div>
+<div id="map"></div>
+<div id="copyrights"></div>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="scripts.js"></script>
+
+</body>
+</html>
