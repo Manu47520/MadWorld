@@ -439,12 +439,13 @@
                 lines.forEach(line => {
                     const data = line.split(';');
 
-                    if (data.length === 4) {
+                    if (data.length === 5) {
                         let nuclearPlant = {
                             lat: parseFloat(data[1]),
                             lon: parseFloat(data[2]),
                             name: data[0].trim(),
-                            years: data[3].trim()
+                            years: data[3].trim(),
+							country: data[4].trim()
                         };
                         nuclearPlants.push(nuclearPlant);
                     }
@@ -465,7 +466,7 @@
             shadowUrl: 'https://unpkg.com/leaflet@1.7.1/dist/images/marker-shadow.png',
             shadowSize: [41, 41]
         })}).addTo(map);
-        nuclearPlantMarker.bindPopup("<b>" + nuclearPlant.name + "</b><br>Années : " + nuclearPlant.years + "<br>Nombre de morts : " + nuclearPlant.casualties + "<br>Surface : " + nuclearPlant.surface);
+        nuclearPlantMarker.bindPopup("<b>" + nuclearPlant.name + "</b><br>Années : " + nuclearPlant.years);
 		nuclearPlantsLayer.addLayer(nuclearPlantMarker);
     });
             })
