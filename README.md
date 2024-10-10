@@ -5,6 +5,5 @@ It is based on OpenStreetMap services.
 
 TODO:
 - add dynamic statistics in the legend
-- update the central nuclear database
 
 URL: http://emmanuel.marcerou.free.fr/MadWorld/
